@@ -1,21 +1,21 @@
 2004-08-09  MIYAMUKO Katsuyuki
 
-	* ƒTƒCƒgˆÚ“]‚É”º‚¤‚±‚Ü‚²‚Ü‚Æ‚µ‚½C³
+	* ã‚µã‚¤ãƒˆç§»è»¢ã«ä¼´ã†ã“ã¾ã”ã¾ã¨ã—ãŸä¿®æ­£
 
 2003-08-12  MIYAMUKO Katsuyuki
 
-	* ni-autoload —pƒtƒ@ƒCƒ‹‚ð‚â‚Á‚Æ’Ç‰ÁB
+	* ni-autoload ç”¨ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚„ã£ã¨è¿½åŠ ã€‚
 
 2003-04-13  MIYAMUKO Katsuyuki
 
-	* (({#define HOGE})) ‚ðƒ^ƒOƒWƒƒƒ“ƒv‚Å‚«‚é‚æ‚¤‚É‚µ‚½
+	* (({#define HOGE})) ã‚’ã‚¿ã‚°ã‚¸ãƒ£ãƒ³ãƒ—ã§ãã‚‹ã‚ˆã†ã«ã—ãŸ
 
-	* •¡”sƒRƒƒ“ƒg‚ÌƒCƒ“ƒfƒ“ƒg‚ª•Ï‚¾‚Á‚½‚Ì‚ðC³
+	* è¤‡æ•°è¡Œã‚³ãƒ¡ãƒ³ãƒˆã®ã‚¤ãƒ³ãƒ‡ãƒ³ãƒˆãŒå¤‰ã ã£ãŸã®ã‚’ä¿®æ­£
 
-	* switch •¶‚Ì default ‚ÌƒCƒ“ƒfƒ“ƒg‚ª•Ï‚¾‚Á‚½‚Ì‚ðC³
+	* switch æ–‡ã® default ã®ã‚¤ãƒ³ãƒ‡ãƒ³ãƒˆãŒå¤‰ã ã£ãŸã®ã‚’ä¿®æ­£
 
-	* ƒL[ƒ[ƒhƒtƒ@ƒCƒ‹‚Ì–¼‘O‚ð IS ‚©‚ç InstallScript ‚É•ÏX
+	* ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ãƒ•ã‚¡ã‚¤ãƒ«ã®åå‰ã‚’ IS ã‹ã‚‰ InstallScript ã«å¤‰æ›´
 
 2003-03-08  MIYAMUKO Katsuyuki
 
-	* ‰ŠúƒŠƒŠ[ƒX
+	* åˆæœŸãƒªãƒªãƒ¼ã‚¹
